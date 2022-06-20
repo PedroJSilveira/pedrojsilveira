@@ -7,6 +7,7 @@
 
 ##
 - 📚 Estudante de ciência da computação (UNIFEI)
+- 💌 email: pjunhosilveira@gmail.com
 ##
 
 <div align="center">
