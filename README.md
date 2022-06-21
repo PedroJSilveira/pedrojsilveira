@@ -6,7 +6,7 @@
 
 ##
 - 📚 Estudante de ciência da computação (UNIFEI)
-- 💌 email: pjunhosilveira@gmail.com
+- 💌 email: pedrojunhocontato@gmail.com
 ##
 
 <div align="center">
