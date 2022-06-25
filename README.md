@@ -2,6 +2,7 @@
 
 <div> 
   <a href="https://instagram.com/PedroJ_Silveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/pedro-junho-silveira-403485242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
