@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h1 align="center">Fala, pessoal 👋</h1>
-<h2 align="center">Me chamo Pedro Junho atualmente atuo como desenvolvedor BackEnd.</h2><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<h1 align="center">Fala pessoal 👋</h1>
+<h2 align="center">Me chamo Pedro Junho e atualmente atuo como desenvolvedor BackEnd.</h2><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 📍 Atualmente moro em Itajubá-MG.
 - 📚 Estudante de ciência da computação (UNIFEI)
