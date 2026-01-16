@@ -41,7 +41,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 <div style="margin-left: 105px;"> 
 
 Competências: `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Git` · `Rest Api` · `SOLID` ·`Rabbitmq` ·`SQL` ·`Micro-Serviços` 
-<br/> Atualmente, atuo como estagiário de desenvolvimento de software, onde sou responsável por implementar novas funcionalidades ao sistema de cadastros de empresas, sempre focando na escalabilidade e na qualidade do código. Além disso, também sou encarregado de corrigir bugs e melhorar a experiência dos usuários finais, garantindo que o sistema atenda às suas necessidades de forma eficiente.
+<br/> Atualmente, atuo como desenvolvedor backend, onde sou responsável por implementar novas funcionalidades ao sistema de cadastros de empresas, sempre focando na escalabilidade e na qualidade do código. Além disso, também sou encarregado de corrigir bugs e melhorar a experiência dos usuários finais, garantindo que o sistema atenda às suas necessidades de forma eficiente.
 
 </div>
 
