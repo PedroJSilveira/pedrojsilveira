@@ -45,10 +45,11 @@ Competências: `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Git` · `
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/PedroJSilveira">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=PedroJSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJSilveira&&langs_count=6&theme=dark&layout=compact"/>
-</div>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=PedroJSilveira&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJSilveira&langs_count=6&theme=dark&layout=compact"/>
+  </a>
+</div> -->
   
 ##
