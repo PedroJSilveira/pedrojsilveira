@@ -7,7 +7,7 @@
 - 📚 Estudante de ciência da computação (UNIFEI)
 - 📩 Contato através de: pedrojunhocontato@gmail.com
 
-#### Estou em constância aprendizados nas seguinte tecnologias:
+#### Estou em contstante aprendizado nas seguinte tecnologias:
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=java"/>]()
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=spring"/>]()
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>]()
