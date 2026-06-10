@@ -14,6 +14,9 @@
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]()
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>]()
 [<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=rabbitmq"/>]()
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]()
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=nest"/>]()
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]()
 
 #### Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/L4tNLWmF/Jet-Brains-Intelli-J-IDEA-Product-Icon.jpg"/>]()
