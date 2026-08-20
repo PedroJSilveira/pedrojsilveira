@@ -39,7 +39,7 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="50px" width="100px" alt="Warpnet" src="https://gfinnovation.com.br/wp-content/uploads/2025/01/gfinnovation-logo.png"/>
+<img align="left" height="50px" width="100px" alt="GF Innovation" src="https://gfinnovation.com.br/__l5e/assets-v1/080a4c07-83e7-4c93-b933-c7e394c0da8a/gf-software-mark.png"/>
 
 <div style="margin-left: 105px;"> 
 
