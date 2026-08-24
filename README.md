@@ -56,3 +56,12 @@ Competências: `Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Git` · `
 </div> -->
   
 ##
+
+### Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=PedroJSilveira&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&show=prs_merged" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroJSilveira&layout=compact&theme=transparent&hide_border=true&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+</div>
+
+##
