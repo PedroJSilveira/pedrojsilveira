@@ -32,6 +32,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/pedrojsilveira" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://instagram.com/PedroJ_Silveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://drive.google.com/file/d/16SUkfACpXov79NV3gg5m4GZ3a3CMm4zh/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo">
+  </a>
 </div>
 
 ##
